@@ -1,4 +1,4 @@
-<%--
+﻿<%--
   Created by IntelliJ IDEA.
   User: asuspc
   Date: 2018/2/12
@@ -15,7 +15,7 @@
     username:<input name="username" type="text"/><br>
     password:<input name="password" type="text"/><br>
     <input type="submit" value="提交" />
-    <<a href="register.jsp">注册</a>
+    
 </form>
 </body>
 </html>
